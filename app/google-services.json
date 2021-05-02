@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "979887432699",
+    "project_id": "notify-application-fb87a",
+    "storage_bucket": "notify-application-fb87a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979887432699:android:99bb80552a5948950e615e",
+        "android_client_info": {
+          "package_name": "com.engamsba.messageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979887432699-vdarjiapi16kg0td32gm6e6dpegrdqjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2sv0c8cx1nu8GAjU1aYYcLcfM62dmh7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979887432699-vdarjiapi16kg0td32gm6e6dpegrdqjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979887432699:android:9ef6842b7874fbdd0e615e",
+        "android_client_info": {
+          "package_name": "com.sample.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979887432699-vdarjiapi16kg0td32gm6e6dpegrdqjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2sv0c8cx1nu8GAjU1aYYcLcfM62dmh7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979887432699-vdarjiapi16kg0td32gm6e6dpegrdqjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
